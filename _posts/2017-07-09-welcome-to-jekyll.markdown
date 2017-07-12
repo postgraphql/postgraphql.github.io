@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Postgraph!"
+title:  "Welcome to PostGraphQL!"
 date:   2017-07-09 16:44:49 -0400
 categories: jekyll update
 ---
 
-Check out the [PostgraphQL docs][postgraph-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][postgraph-gh].
+Check out the [PostGraphQL docs][postgraphql-docs] for more info on how to get the most out of PostGraphQL. If you have questions, you can ask them on [GitHub][postgraphql-gh] or via [our gitter chat](https://gitter.im/calebmer/postgraphql).
 
-[postgraph-docs]: https://postgraphql.github.io/docs
-[postgraph-gh]:   https://github.com/postgraphql/postgraphql
+[postgraphql-docs]: https://postgraphql.github.io/docs
+[postgraphql-gh]:   https://github.com/postgraphql/postgraphql
